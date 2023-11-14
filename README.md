@@ -1,2 +1,2 @@
 # Unique-File
-Logic for comparing filesin C
+Logic for comparing files in C
